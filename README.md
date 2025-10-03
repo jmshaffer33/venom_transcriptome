@@ -44,3 +44,6 @@ https://subread.sourceforge.net/
 2. Identify coding vs non-coding transcripts   
 3. Identify toxin-specific (i.e. metalloproteins) and non-toxin specific transcripts in transcriptome via comparisons to blastx protein searches  
 4. Quantify transcript abundances, protein categories, expression levels
+
+Reach goal!
+5. Found Colubridae reference genome (WGS *Pantherophis guttatus* SRA accession #: SRR32257721), would like to use same pipeline from king cobra figure to recreate figure 2 for rear-fanged snakes and compare!!
