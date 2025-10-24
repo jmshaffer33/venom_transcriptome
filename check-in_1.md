@@ -5,7 +5,7 @@
 Prior feadback was super kind! So thus far there was not much to address, just to keep moving forwards and accomplishing the goals we have planned. Lina has performed all of the coding thus far, and hopefully we are on our way towards venom transcriptome sequence alignment. To accomplish our reach goal, I (Jess) identified a reference genome for a Colubrid family snake of a different species (corn snake, species of North American rat snake) that can be used with the Rokyta et al 2014 *Boiga irregularis* data.  
 
 ### 2. New progress since last submission 
-Identified Colubrid whole genome
+Identified Colubrid whole genome   
 ***Pantherophis guttatus*** **(corn snake)**\
 Whole genome sequencing: SRA SRR32257721\
 https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR32257721&display=metadata/  
