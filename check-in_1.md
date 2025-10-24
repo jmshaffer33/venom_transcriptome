@@ -6,7 +6,7 @@ Prior feadback was super kind! So thus far there was not much to address, just t
 
 ### 2. New progress since last submission 
 Identified Colubrid whole genome
-***Pantherophis guttatus (corn snake)***\
+***Pantherophis guttatus*** **(corn snake)**\
 Whole genome sequencing: SRA SRR32257721\
 https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR32257721&display=metadata/  
 Can be used for reach goal comparison figure, front-fanged snake vs rear-fanged snake venom transcriptome 
